@@ -29,7 +29,7 @@ Expense Tracker is a web application built with Flask that allows users to track
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   https://github.com/DAR3D3V1L/Expense-Tracker.git
    cd expense-tracker
    ```
 
