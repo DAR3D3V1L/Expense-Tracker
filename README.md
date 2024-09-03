@@ -30,7 +30,7 @@ Expense Tracker is a web application built with Flask that allows users to track
 
    ```bash
    https://github.com/DAR3D3V1L/Expense-Tracker.git
-   cd expense-tracker
+   cd Expense-Tracker
    ```
 
 2. **Create a Virtual Environment**
@@ -71,13 +71,13 @@ To run the application using Docker:
 1. **Build the Docker Image**
 
    ```bash
-   docker build -t expense-tracker .
+   docker build -t Expense-Tracker .
    ```
 
 2. **Run the Docker Container**
 
    ```bash
-   docker run -p 8000:8000 expense-tracker
+   docker run -p 8000:8000 Expense-Tracker
    ```
 
    The application will be available at `http://localhost:8000`.
@@ -95,7 +95,7 @@ To run the application using Docker:
 ## Folder Structure
 
 ```plaintext
-expense-tracker/
+Expense-Tracker/
 ├── app.py                # Main application file
 ├── models.py             # Database models
 ├── forms.py              # Form classes using Flask-WTF
