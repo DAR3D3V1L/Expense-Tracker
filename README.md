@@ -119,10 +119,6 @@ expense-tracker/
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Contact
 
 For questions or support, please contact [devansh_arya@outlook.com].
